@@ -32,3 +32,7 @@ Teensy 4.0 has to be also connected to a computer via a micro USB cable.
 
 ## Google Colab Notebook
 https://colab.research.google.com/drive/1sfRkRf1Mil6hrIxcMpIgG6F1O9PGYyWY?usp=sharing
+
+## Feedback Form
+We will greatly appreciate you filling the following feedback form in order to improve future instances of this workshop:
+https://docs.google.com/forms/d/e/1FAIpQLSckkYaXhhwmJXAOyUIyLTCVA38Vb6KOpvNsB2MAzit8-rDW3Q/viewform

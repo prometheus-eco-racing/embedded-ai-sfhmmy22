@@ -12,7 +12,7 @@
 #define dirPIN1 5
 #define dirPIN2 6
 #define PWM 2
-#define measurementsPerSample 10;
+#define measurementsPerSample 10
 
 Adafruit_MPU6050 mpu;
 int measurementsRead = 0;

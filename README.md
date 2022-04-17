@@ -2,7 +2,8 @@
 ## Prerequisites
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
 2. Install [add-on for Teensy development](https://www.pjrc.com/teensy/td_download.html)
-3. Install the [IMU libraries](https://learn.adafruit.com/adafruit-icm20649-wide-range-6-dof-imu-accelerometer-and-gyro/arduino#library-installation-3054512-7)
+3. Install the [MPU6050 IMU library](https://www.arduino.cc/reference/en/libraries/adafruit-mpu6050/)
+4. Install the [Arduino Tensorflow Lite library](https://www.arduino.cc/reference/en/libraries/arduino_tensorflowlite/)
 
 ## Connections
 Pins in the same row have to be shorted.

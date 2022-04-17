@@ -22,6 +22,7 @@ Pins in the same row have to be shorted.
 
 Teensy 4.0 has to be also connected to a computer via a micro USB cable.
 
+![](.imgs/sfhmmy_2022_prometheus_connections.png)
 ![](https://grobotronics.com/images/companies/1/teensy40_pinout1_1024x1024.jpg)
 ![](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/L298N-Motor-Driver-Module-Pinout.png)
 

@@ -1,5 +1,4 @@
-# embedded-ai-sfhmmy22
-
+# Embedded AI workshop @ Sfhmmy 22
 ## Prerequisites
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
 2. Install [add-on for Teensy development](https://www.pjrc.com/teensy/td_download.html)
@@ -25,3 +24,7 @@ Teensy 4.0 has to be also connected to a computer via a micro USB cable.
 
 ![](https://grobotronics.com/images/companies/1/teensy40_pinout1_1024x1024.jpg)
 ![](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/L298N-Motor-Driver-Module-Pinout.png)
+
+
+## Google Colab Notebook
+https://colab.research.google.com/drive/1sfRkRf1Mil6hrIxcMpIgG6F1O9PGYyWY?usp=sharing

@@ -5,6 +5,8 @@
 3. Install the [MPU6050 IMU library](https://www.arduino.cc/reference/en/libraries/adafruit-mpu6050/)
 4. Install the [Arduino Tensorflow Lite library](https://www.arduino.cc/reference/en/libraries/arduino_tensorflowlite/)
 
+Instructions for installing Arduino libraries [here](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager). 
+
 ## Connections
 Pins in the same row have to be shorted.
 

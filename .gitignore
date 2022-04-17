@@ -1,0 +1,4 @@
+data
+*.tflite
+model.h
+myenv

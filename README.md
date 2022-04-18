@@ -1,4 +1,7 @@
 # Embedded AI workshop @ Sfhmmy 22
+![](.imgs/banner_detailed.png)
+
+
 ## Prerequisites
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
 2. Install [add-on for Teensy development](https://www.pjrc.com/teensy/td_download.html)

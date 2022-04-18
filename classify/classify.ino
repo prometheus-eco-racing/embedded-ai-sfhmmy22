@@ -107,6 +107,13 @@ void loop() {
 
     //Remember you are inside a loop counting measurementsPerSample times.
 
+    tflInputTensor->data.f[measurementsRead*6 + 0] = a.acceleration.x;
+    tflInputTensor->data.f[measurementsRead*6 + 1] = a.acceleration.y;
+    tflInputTensor->data.f[measurementsRead*6 + 2] = a.acceleration.z;
+    tflInputTensor->data.f[measurementsRead*6 + 3] = g.gyro.x;
+    tflInputTensor->data.f[measurementsRead*6 + 4] = g.gyro.y;
+    tflInputTensor->data.f[measurementsRead*6 + 5] = g.gyro.z;
+
     measurementsRead++;
 
   }
@@ -128,11 +135,17 @@ void loop() {
     \************************************************/
     
     //Step 1: Get the output tensor value from the model
-    // ...
-
-    //Step 2: Based on the output value decide on the output class and prints
-    // ...
-
+    float prediction = tflOutputTensor->data.f[0];
+    
+    //Step 2: Based on the output value decide on the output class and print
+    if(prediction>0.5){
+      Serial.println("balanced");
+    }
+    else{
+      Serial.println("unbalanced");
+    }
+    
+  
 
   }
   delay(4);

